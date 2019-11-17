@@ -8,3 +8,5 @@
 (package! dart-mode)
 (package! import-js)
 (package! flutter)
+(package! company-tabnine)
+(package! ivy-lsp :recipe (:host github :repo "emacs-lsp/lsp-ivy"))
