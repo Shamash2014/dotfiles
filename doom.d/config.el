@@ -2,7 +2,7 @@
 
 ;; Place your private configuration here
 
-(setq doom-theme 'doom-solarized-dark
+(setq doom-theme 'doom-nova
       lsp-auto-guess-root t
       dart-format-on-save t)
 
