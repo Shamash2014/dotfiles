@@ -16,7 +16,7 @@
        company           ; the ultimate code completion backend
        ;;helm              ; the *other* search engine for love and life
        ;;ido               ; the other *other* search engine...
-       ( ivy +fuzzy)               ; a search engine for love and life
+       (ivy +fuzzy)               ; a search engine for love and life
 
        :ui
        ;;deft              ; notational velocity for Emacs
@@ -91,7 +91,7 @@
        ;;pdf               ; pdf enhancements
        ;;prodigy           ; FIXME managing external services & code builders
        rgb               ; creating color strings
-       ;;terraform         ; infrastructure as code
+       terraform         ; infrastructure as code
        ;;tmux              ; an API for interacting with tmux
        ;;upload            ; map local to remote projects via ssh/ftp
        ;;wakatime
@@ -108,7 +108,7 @@
        data              ; config/data formats
        erlang            ; an elegant language for a more civilized age
        ( elixir +lsp)           ; erlang done right
-       ;;elm               ; care for a cup of TEA?
+       (elm +lsp)               ; care for a cup of TEA?
        emacs-lisp        ; drown in parentheses
        ess               ; emacs speaks statistics
        ;;faust             ; dsp, but you get to keep your soul
