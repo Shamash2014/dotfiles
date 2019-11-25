@@ -3,7 +3,7 @@
 ;; Place your private configuration here
 
 (add-to-list 'default-frame-alist '(fullscreen . maximized))
-(setq doom-theme 'doom-nord
+(setq doom-theme 'doom-solarized-light
       display-line-numbers-type 'relative
       company-show-numbers  nil
       company-idle-delay 0.1
