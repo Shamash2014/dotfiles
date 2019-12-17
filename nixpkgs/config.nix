@@ -19,6 +19,8 @@
  stow
 	tdesktop
 	lshw
+fzf
+mkcert
         mpv
 	xmind
         emacs
@@ -31,6 +33,9 @@
 	yarn
         nix-info
         nix-index
+        gfortran
+readline80
+R
       ];
     };
   };
