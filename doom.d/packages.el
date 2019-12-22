@@ -8,5 +8,8 @@
 (package! dart-mode)
 (package! import-js)
 (package! flutter)
+(package! reason-mode)
 (package! company-tabnine)
+(package! ivy-taskrunner :recipe (:host github :repo "emacs-taskrunner/ivy-taskrunner"))
+(package! emacs-taskrunner :recipe (:host github :repo "emacs-taskrunner/emacs-taskrunner"))
 (package! ivy-lsp :recipe (:host github :repo "emacs-lsp/lsp-ivy"))
